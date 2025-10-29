@@ -23,6 +23,13 @@
             max-width: 500px;
             width: 100%;
         }
+
+       .icon{
+           width: 100px;
+           height: 100px;
+           margin: 0 auto;
+           background: #ffffff;
+       }
         
         h1 {
             color: #333;
@@ -105,4 +112,5 @@
             font-size: 18px;
             margin-top: 20px;
         }
+
 
